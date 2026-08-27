@@ -1,4 +1,3 @@
-%%writefile app.py
 import gradio as gr
 from google import genai
 from google.genai import types
